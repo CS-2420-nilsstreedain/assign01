@@ -14,7 +14,7 @@ public class MathVector {
 	private double[][] data;
 	// set to true for a row vector and false for a column vector
 	private boolean isRowVector;
-	// count of elements in the vector
+	// count of all elements in the vector
 	private int vectorSize;
 
 	/**
